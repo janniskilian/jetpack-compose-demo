@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="search_input_placeholder">Enter your search query</string>
+    <string name="search_show_icon_desc">Show search bar</string>
+    <string name="search_hide_icon_desc">Hide search bar</string>
+
+</resources>

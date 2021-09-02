@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unsplash_api_access_key">Insert your Unsplash API access key here</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="like_button_desc">Like</string>
+    <string name="like_button_animation_label">like_button_animation</string>
+
+</resources>
